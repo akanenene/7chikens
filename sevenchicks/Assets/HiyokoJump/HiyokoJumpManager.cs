@@ -7,13 +7,16 @@ public class HiyokoJumpManager : MonoBehaviour
     private float frame;
     private int count;
     [SerializeField]
+    private float f;
+    [SerializeField]
     private List<HiyokoJump>  hiyokoJumpList = new List<HiyokoJump>();
     // Start is called before the first frame update
     void Start()
     {
         foreach(HiyokoJump hj in hiyokoJumpList)
         {
-            hj.jumpScale = 40;
+           //hj.jumpScale = 40;
+            hj.jumpScale = f;
         }
     }
 

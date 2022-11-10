@@ -6,7 +6,7 @@ public class HiyokoJump : MonoBehaviour
 {
     private float frame;
     public bool jump;
-    public float jumpScale = 10.0f;
+    public float jumpScale;
     private Vector3 defaultpos;
     // Start is called before the first frame update
     void Start()
