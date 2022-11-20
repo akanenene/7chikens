@@ -150,11 +150,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 53784030}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f45eb0ca8561646478a24bf13cb6581c, type: 3}
+  m_Script: {fileID: 11500000, guid: 0cc2d857c76a8fc449078aba4f31ec0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jump: 0
-  jumpScale: 0
+  jump: 1
+  jumpScale: 10
 --- !u!212 &53784032
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1141,11 +1141,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 536886964}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f45eb0ca8561646478a24bf13cb6581c, type: 3}
+  m_Script: {fileID: 11500000, guid: 0cc2d857c76a8fc449078aba4f31ec0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jump: 0
-  jumpScale: 0
+  jump: 1
+  jumpScale: 10
 --- !u!212 &536886966
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1859,11 +1859,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 944610695}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f45eb0ca8561646478a24bf13cb6581c, type: 3}
+  m_Script: {fileID: 11500000, guid: 0cc2d857c76a8fc449078aba4f31ec0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jump: 0
-  jumpScale: 0
+  jump: 1
+  jumpScale: 10
 --- !u!212 &944610697
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2198,7 +2198,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1058048605}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f7c683dbcbc9d414f8ef6b59a0b4ca70, type: 3}
+  m_Script: {fileID: 11500000, guid: 78c656dc95bcf524da2d10ec2b98c2af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   f: 0.5
@@ -2220,7 +2220,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1058048605}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f45eb0ca8561646478a24bf13cb6581c, type: 3}
+  m_Script: {fileID: 11500000, guid: 0cc2d857c76a8fc449078aba4f31ec0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   jump: 1
@@ -2437,11 +2437,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1100691931}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f45eb0ca8561646478a24bf13cb6581c, type: 3}
+  m_Script: {fileID: 11500000, guid: 0cc2d857c76a8fc449078aba4f31ec0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jump: 0
-  jumpScale: 0
+  jump: 1
+  jumpScale: 10
 --- !u!212 &1100691933
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2739,8 +2739,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f45eb0ca8561646478a24bf13cb6581c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jump: 0
-  jumpScale: 0
 --- !u!1 &1200413469
 GameObject:
   m_ObjectHideFlags: 0
@@ -3012,11 +3010,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1528010480}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f45eb0ca8561646478a24bf13cb6581c, type: 3}
+  m_Script: {fileID: 11500000, guid: 0cc2d857c76a8fc449078aba4f31ec0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jump: 0
-  jumpScale: 0
+  jump: 1
+  jumpScale: 10
 --- !u!212 &1528010482
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3542,7 +3540,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1885102340
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3668,11 +3666,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1988458236}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f45eb0ca8561646478a24bf13cb6581c, type: 3}
+  m_Script: {fileID: 11500000, guid: 0cc2d857c76a8fc449078aba4f31ec0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jump: 0
-  jumpScale: 0
+  jump: 1
+  jumpScale: 10
 --- !u!212 &1988458238
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4012,11 +4010,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 2104463070}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f45eb0ca8561646478a24bf13cb6581c, type: 3}
+  m_Script: {fileID: 11500000, guid: 0cc2d857c76a8fc449078aba4f31ec0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jump: 0
-  jumpScale: 0
+  jump: 1
+  jumpScale: 10
 --- !u!212 &2104463072
 SpriteRenderer:
   m_ObjectHideFlags: 0
